@@ -1,0 +1,7 @@
+name: CustomPotion
+version: @version@
+main: fr.aerium.custompotion.CustomPotion
+api-version: 1.16
+depend: [ CustomPotionAPI ]
+authors: [ Sweetosky ]
+description: Plugin de potion custom Aerium
